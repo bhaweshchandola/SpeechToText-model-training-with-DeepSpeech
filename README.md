@@ -1,1 +1,1 @@
-# deepspeech_training
+# Training a new speech to text model with Deepspeech

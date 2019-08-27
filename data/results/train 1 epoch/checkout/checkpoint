@@ -1,0 +1,2 @@
+model_checkpoint_path: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-120"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-120"

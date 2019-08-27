@@ -1,0 +1,6 @@
+model_checkpoint_path: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4560"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4200"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4320"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4440"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4558"
+all_model_checkpoint_paths: "/usr/workspace/pykaldi/deepspeech/vietnam/deepspeech_training/results/checkout/train-4560"

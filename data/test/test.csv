@@ -1,0 +1,761 @@
+wav_filename,wav_filesize,transcript
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R106.wav,84044,TRỞ NÊN THỤ ĐỘNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R122.wav,82044,CŨNG KHIẾN CHO HỌ DÈ DẶT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R130.wav,141044,CHỊ GẶN HỎI ANH THỀ SỐNG THỀ CHẾT LÀ KHÔNG CÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R132.wav,124044,ĐIỆN THOẠI RENG NHƯNG TA CŨNG PHẢI NHẤC MÁY ĐÚNG KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R135.wav,119044,CŨNG THUỘC LOẠI DÀY ĐẶC NHẤT TRONG HỆ MẶT TRỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R137.wav,114044,CÁC VỤ THAM NHŨNG VÀ BÊ BỐI KINH TẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R149.wav,152044,CHÚNG CỨ CỐ LÙI LẠI MẶC DÙ VƯỚNG VÍU GÔNG XIỀNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R154.wav,166044,BỌN BUÔN DỰ ÁN CHẠY CHỌT BÀY RA CÁC DỰ ÁN ĐỂ KIẾM CHÁC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R015.wav,108044,TẤT CẢ MỌI THỨ ĐỀU KỲ LẠ MỘT CÁCH PHI THƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R164.wav,117044,CÁC CHƯƠNG TRÌNH CA NHẠC PHẦN LỚN ĐỀU KHÔNG ĐỘT PHÁ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R170.wav,158044,RỒI CHẠY SANG GÕ CỬA PHÒNG BA LE HAI DẤM DÚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R173.wav,103044,ĐỂ TRẢ TRỞ LẠI ĐẠI DƯƠNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R181.wav,132044,NÀNG CÓ ĐÔI MẮT TO SÂU VÀ VẦNG TRÁN RỘNG MÊNH MÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R192.wav,158044,TÔI TỰ HỎI PHẢI CHĂNG ĐÓ LÀ DO DAN CÒN QUÁ TRẺ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R195.wav,130044,ỦY BAN CHÂU ÂU KÊU GỌI NHỮNG QUỐC GIA PHÁT TRIỂN CÒN LẠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R200.wav,107044,VÀ KHI CHÚNG TA SAO NHÃNG CÔNG VIỆC CỦA MÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R027.wav,109044,CÓ THỂ LÀNH LẶN MÀ KHÔNG ĐỂ LẠI VẾT SẸO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R031.wav,172044,MUỐN ĐẸP PHẢI GHÈ LÀM SAO CHO CÁC BÓ CƠ CHÂN NỔI BẬT LÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R032.wav,110044,Y TẾ BÌNH HƯNG HÒA BỊ HƯ HỎNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R045.wav,116044,CÔ CỨ NHÈ NGAY CÁI NỌNG CÁ TRÊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R005.wav,84044,NẾU TƯỞNG TƯỢNG BẢY TÁM NĂM NỮA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R067.wav,126044,ÔNG CHỦ TỊCH TUYÊN BỐ NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R068.wav,98044,KHIẾN HAI CHA CON CẬU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R069.wav,80044,LÀM ĐẸP KHÔNG ĐÚNG CÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R071.wav,158044,MỖI KHI XE RÁC ĐI NGANG QUA ĐÁNH KẺNG MỚI ĐEM RA ĐỔ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R076.wav,95044,THAY VÌ BỐN GIỜ NHƯ TRƯỚC ĐÂY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R079.wav,129044,HẦU HẾT NANG NÀY CÓ NGUỒN GỐC TỪ GÂN CƠ CHÂN NGỖNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R087.wav,150044,TIẾNG MÃ TẤU SẮC LẠNH CHẠM NHAU VÀ CẢ TIẾNG RÊN RỈ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R089.wav,152044,CÓ HẲN MỘT LOẠT BÀI VIẾT CHUYÊN ĐỀ VỀ QUẢN TRỊ THƯƠNG HIỆU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R091.wav,96044,HỢP VỚI HƯƠNG VỊ ĐẦU XUÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R099.wav,162044,ỔNG NÓI Ở SÀI GÒN ỔNG ĐÃ LÀM ÔNG HỘI ĐỒNG NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_R009.wav,107044,BÀ QUẢNG VẪN ĐANG BẬN RỘN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T012.wav,108044,MÀY DÁM CHƠI VỢ TAO TAO PHẢI GIẾT MÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T013.wav,118044,TỐNG CỔ HẮN ĐI KHÔNG ĐƯỢC ĐỂ HẮN VÀO ĐÂY NỮA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T015.wav,108044,HẮN CHƠI VỢ ANH THÌ SAO ANH KHÔNG CHƠI VỢ HẮN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T022.wav,136044,THÁNG TRƯỚC CHỒNG VỀ MẤY NGÀY MÌNH NẰM NGỦ THẤY ẤM KINH KHỦNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T031.wav,72044,CHO EM GÓP MỘT VIÊN GẠCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T043.wav,121044,ĐI KIỂM TRA LẠI BÁC SĨ KHUYÊN NÊN MỔ NỘI SOI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T004.wav,94044,HÔM NAY EM CÓ TỚI NĂM KHÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV02_T050.wav,106044,ANH BỊ ĐẨY TỪ HÀ NỘI VÀO SÀI GÒN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R109.wav,53044,PHÙ HỢP CHO MỌI CÂN NẶNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R010.wav,86044,ÂM THẦM CHẮT CHIU NUÔI TÔI KHÔN LỚN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R113.wav,84044,VÌ BẠN CÓ THỂ LẢY CÒ TỪNG PHÁT MỘT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R117.wav,57044,VAI TRÒ CỦA CHẾ ĐỘ DINH DƯỠNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R119.wav,45044,KHÔNG HIỂU SAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R120.wav,66044,KHIẾN PHỤ HUYNH HIỂU NHẦM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R125.wav,59044,MỖI KHI CƠN GIÓ ĐẾN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R136.wav,110044,NÀY BÓN CHO CON THƯƠNG ĐỠ YẾU ĐAU CÒI CỌC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R142.wav,80044,TRONG TƯ THẾ PHI NGỰA CHỒM LÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R144.wav,52044,MÀ CŨNG ĐẦY THANH KHIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R148.wav,96044,MỘT VỤ CHẬP ĐIỆN ĐÃ KHIẾN NGỌN LỬA BÙNG LÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R149.wav,50044,BÀ CON CHÒM XÓM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R156.wav,92044,ĐÂY LÀ MỨC LÃI SUẤT THẤP NHẤT QUA CÁC PHIÊN ĐẤU THẦU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R160.wav,69044,DỌC HAI BÊN SÔNG NGÀN SÂU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R163.wav,52044,NHƯNG OÁI ĂM THAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R180.wav,50044,SAU CẢI CÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R182.wav,88044,MỘT KẾ HOẠCH TƯƠNG TỰ ĐƯỢC ÁP DỤNG Ở ANH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R191.wav,54044,CỠI NGỰA ĐI THI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R193.wav,46044,ÔI DÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R195.wav,98044,KHÔNG MỘT CHIẾC XE LẠ NÀO CÓ THỂ MON MEN VÀO ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R198.wav,82044,RỒI ĐI KHẮP NƠI TÌM THẦY CHỮA BỆNH CHO ANH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R020.wav,148044,BÊN TRONG TRÁI VẢ KHI BỔ RA SẼ RỖNG CHỨ KHÔNG ĐẶC NHƯ TRÁI SUNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R029.wav,150044,NÊN HAI MỐ CẦU BỊ SỤP ĐẤT KHIẾN LỐI ĐI BỘ QUÁ NGUY HIỂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R041.wav,94044,LUÔN ỔN ĐỊNH VÀ CÁC XE TRẤU KHÁ NẶNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R044.wav,94044,VÀ KHI HỌ VẠCH TÓC RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R046.wav,94044,CỦA CHÍNH SÁCH ĐỐI VỚI QUY MÔ CỦA THỊ TRƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R056.wav,84044,SƯƠNG MÙ ĐÃ ĐỌNG THÀNH NHỮNG HẠT GIÁ BĂNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R057.wav,73044,CHỨ KHÔNG PHẢI TÀI NĂNG THIÊN BẨM NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R061.wav,82044,LÀ TIẾNG TRỐNG LÂN TÙNG XÈNG VUI TAI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R007.wav,100044,MỘT CHUYẾN DU LỊCH DÃ NGOẠI TẠI BÒ CẠP VÀNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R082.wav,126044,GHÉP CÀNH MAI GIẢO VÀO THÂN CỔ THỤ CHO HOA CÁNH LỚN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_R092.wav,80044,ĐỂ CHỌN MÁY IN CHO PHÙ HỢP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T017.wav,77044,BÁC VẪN CHƯA TRẢ TIỀN CHO TÔI ĐÂY NHÉ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T018.wav,56044,TÔI ĐANG BẬN HỌP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T023.wav,90044,CƯỚP ĐẦY ĐƯỜNG CÔNG AN CHỈ LO HẠCH SÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T035.wav,74044,MẸ ƠI CÓ MUA ĐỒ CHO CON KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T041.wav,81044,CON CHÓ LỦI THỦI ĐI THEO CHỦ NÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T047.wav,73044,TRONG PHIM CÓ NHIỀU CẢNH CHÉM GIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T048.wav,72044,DIỄN VIÊN CHÍNH ĐỨNG NHƯ KHÚC GỖ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV03_T009.wav,61044,BÁC ĐANG SUY NGHĨ GÌ THẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R108.wav,110044,KHI TRẪM KHỎI BỆNH THÌ SẼ CHÉM ĐẦU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R117.wav,88044,VIỆC MỘT QUYỂN TIỂU THUYẾT NHƯ THẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R012.wav,134044,NHỮNG CƠN GIÓ MẠNH VÀ MƯA ĐÓNG BĂNG GÂY TRƠN TRỢT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R130.wav,119044,NÃO BỘ CHÚNG TA PHÁT TRIỂN NHỮNG RUNG ĐỘNG YÊU THƯƠNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R139.wav,102044,TRỪ KHI BẠN BIẾT TÔN TRỌNG BẢN THÂN MÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R141.wav,105044,NHỮNG CON ĐƯỜNG NGẮN NGỦN NHƯ NHỮNG NHÁT CẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R146.wav,65044,HIỆN RA TẬN PHÍA XA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R150.wav,66044,XIN ĐƯỢC CHÂN KHUÂN VÁC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R151.wav,117044,NHƯNG KHI TIẾN GẦN VÀO VỊNH THÌ MẶT BIỂN BỊ RẠN VỠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R164.wav,80044,MỘT BÀ NGOẠI GIẶT ĐỒ THUÊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R170.wav,105044,ĐÔI BÀN TAY EM KHÔNG ĐƯỢC MỀM MẠI VÀ NÕN NÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R172.wav,119044,TÂY GIANG VẪN CÒN KHẮC KHOẢI KHÔNG THỂ VÀO XÃ A NÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R174.wav,100044,NHỮNG DỰ ĐỊNH CẦN PHẢI ĐƯỢC BIẾN THÀNH HIỆN THỰC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R176.wav,110044,ĐỂ TÀU KHÔNG PHẢI CƯỠI CẦU TÀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R180.wav,126044,BÀN CHỔI SƠN BẰNG BÔNG MỀM RẤT PHỔ BIẾN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R187.wav,88044,THẬT SỰ MÀ LÀ BỞI LÒNG HẬN THÙ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R188.wav,110044,VIỆC QUY TỘI ĐỂ BÙNG NỔ LOẠI SÁCH NÀY LÀ DO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R027.wav,151044,DI TÍCH CÓ BẢY PHỖNG ÔNG VÀ HAI PHỖNG BÀ ĐƯỢC LÀM BẰNG GỖ MÍT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R028.wav,146044,CÁC CHÚ CŨNG THOẢI MÁI PHÓNG UẾ GIỮA CHỐN ĐÔNG NGƯỜI MÀ KHÔNG SỢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R002.wav,130044,TIẾNG CỌC CẠCH KHỰNG LẠI CỦA NHỮNG KHỚP SẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R034.wav,62044,NGƯỜI TA NÓI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R003.wav,118044,CŨNG LÊN TIẾNG ỦNG HỘ CÁC KIẾN NGHỊ NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R043.wav,108044,ANH PHÚ CHƯA BÚ ĐƯỢC SỮA MẸ LẦN NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R044.wav,167044,NGỌN LỬA BẠO ĐỘNG Ở TRUNG ĐÔNG VÀ PHÁ VỠ LỘ TRÌNH HÒA BÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R055.wav,83044,VÀ RẤT SÁNG TẠO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R057.wav,94044,NHƯNG GIẤC NGỦ CHẬP CHỜN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R058.wav,121044,GIÁM ĐỐC SỞ GIÁO DỤC ĐÀO TẠO NINH THUẬN CHO BIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R069.wav,70044,ĐÈN BỊ HƯ RỒI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R071.wav,146044,TRƯỞNG CÔNG AN XÃ CHẠY SANG CAN NGĂN CŨNG BỊ TUYẾN ĐÁNH TIẾP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R078.wav,120044,NGHE CHÚNG TÔI HỎI ĐIỀU NÀY CHỊ NGÁT RÂN RẤN NƯỚC MẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R086.wav,132044,CÔNG VĂN ĐỀ NGHỊ TỈNH CON TUM XÂY DỰNG CỬA KHẨU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R089.wav,130044,NHƯNG TÌNH YÊU VẪN NỒNG NÀN VÀ SAY ĐẮM NHƯ BUỔI BAN ĐẦU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R092.wav,97044,DO CHÍNH PHỦ MỸ TIẾN HÀNH Ở VIỆT NAM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R098.wav,92044,TỈNH QUẢNG TRỊ ĐÃ PHÊ DUYỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_R099.wav,124044,NHƯNG TÔI THÍCH XEM BỘ PHIM TRUYỆN PHÁT NGAY SAU CHƯƠNG TRÌNH NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_T002.wav,63044,CŨNG CHƯA BIẾT NỮA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_T030.wav,62044,XUÂN NÀY EM KHÔNG VỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_T038.wav,80044,CHẮC SẮP TỚI THU XẾP ĐI DU LỊCH THÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_T043.wav,78044,NÓ TRỐN MẤT TIÊU RỒI CÒN ĐÂU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV01_T048.wav,76044,THẰNG ĐÓ CÓ CÁI MIỆNG NHƯ ĐÀN BÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R100.wav,44044,BÀ NÓI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R010.wav,120044,CON NHỎ MỞ CÁI TÚI GÚT ĐEO TRÊN CỔ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R114.wav,90044,CŨNG CHẲNG CÒN XÚNG XÍNH QUẦN ÁO MỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R118.wav,77044,TRẺ EM ĐÂU CÓ CHƯỚNG NGẠI VẬT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R126.wav,77044,TÔI KHÔNG NỠ LÀM CÔ BÉ THẤT VỌNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R127.wav,111044,RẤT NHIỀU GỬI GẮM VÀ KỲ VỌNG VÀO ÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R129.wav,70044,ĐANG THẢO LUẬN VỀ ĐỀ XUẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R132.wav,108044,CHỦ TỊCH NƯỚC ĐÃ ĐẾN KIỂM TRA TIẾN ĐỘ THI CÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R013.wav,122956,NGHĨA LÀ KÉM CỎI NAM TÍNH HAY SAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R149.wav,151158,MỘT CÔ GÁI VÁY NGẮN CŨN CỠN CHẠY LÊN HỎI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R152.wav,145044,SẼ KHÔNG KHIẾN BẠN TRÔNG GẦY NHƯ NHỮNG TRANG PHỤC MỘT MÀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R162.wav,86044,CÔ CHỈ MỚI VÀO LƯỚI NHẶT BÓNG HAI LẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R182.wav,114044,HOẶC CHỈ BIỂU HIỆN BẰNG CÁC RỐI LOẠN CO BÓP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R186.wav,62044,NHẰM TẠO RA SỰ HẤP DẪN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R187.wav,104044,THỨ ÂM THANH KHÔNG CHỈ CẢM NHẬN BẰNG THÍNH GIÁC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R189.wav,108044,TỪ NỖI CÔ ĐƠN CỦA MỘT CÔ BÉ BỊ CHA MẸ BỎ QUÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R023.wav,204044,CHÍNH BÀ CŨNG LÀ NGƯỜI NUNG NẤU NIỀM ĐAM MÊ DIỄN XUẤT CỦA CÔ CON GÁI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R002.wav,108044,ĐÓ CŨNG LÀ ĐỘNG LỰC THÚC ĐẨY TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R047.wav,137044,NHÓM SINH VIÊN TẠI TRƯỜNG CÙNG HỌP MẶT ĂN TẾT CHUNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R049.wav,66044,VÌ TỐI ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R004.wav,114044,ĐÔI KHI BẠN CŨNG CÓ THỂ LÀM NHỮNG ĐIỀU ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R051.wav,72044,RẠCH BÀU MỚP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R056.wav,99044,GÍ HÒN THAN VÀO RƠM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R063.wav,124044,CHÁU SỐT NÊN RẸO RỌC SUỐT ĐÊM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R081.wav,102044,VÀ TÔI THẤY HOA VẠN THỌ VÀNG ƯƠM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R086.wav,164044,TAY KIA XÁCH MỘT TAY GIÓNG MANG CHIẾC VỊM LỚN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R089.wav,74044,NGỦ TRÊN NỆM KHÔNG PHÙ HỢP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R008.wav,206044,NHỮNG NGÀY ĐẦU VẮNG BÓNG BA VIỆT CỨ THỪ NGƯỜI NGHĨ NGỢI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R092.wav,98044,BỊ CÁC CÔ GÁI BAO VÂY RÁO RIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R095.wav,136044,TRƠ TRỌI GIỮA ĐỒNG CÁI NHÌN KHẮC KHOẢI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_R097.wav,76044,NGOÀI VIỆC PHÁT HIỆN KẺ THÙ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T015.wav,107044,MỘT LÀ GẶP LẠI TẤT CẢ CÁC EM PHÒ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T018.wav,83044,NHỮNG SAI LẦM KHI ĐI CHỌN KHÁCH SẠN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T029.wav,98044,ANH ĐI CÔNG TÁC CẦN THƠ TUẦN SAU MỚI VỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T002.wav,96044,CÓ TRẢ TIỀN CHO BỐ KHÔNG THÌ BẢO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T032.wav,64044,CAM SÀNH LỘT VỎ CÒN CHUA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T035.wav,86044,ANH KHEN EM ĐẸP EM CHÊ ANH GIÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T003.wav,95044,NHẬN ĐƯỢC TIN NÀY GỌI LẠI CHO TÔI GẤP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T044.wav,86044,BA NÀY CHỈ GIỎI BỐC PHÉT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV04_T009.wav,82044,CHO TÔI NHẮN ĐẠI TIN NÀO CŨNG ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_004.wav,130080,HÃY TƯỞNG TƯỢNG RẰNG BẠN LÀ LÀ GIÁM ĐỐC DỰ ÁN TRONG MỘT CÔNG TY LỚN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_030.wav,76080,CỦA NHỮNG THẾ LỰC HÙNG MẠNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_037.wav,62080,ÔNG NHẶT NÓ LÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_043.wav,96080,NGUYÊN THỨ TRƯỞNG MAI VĂN DÂU ĐÃ BỊ BẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_055.wav,107080,NHƯNG MỨC ÁN TỬ HÌNH ĐỐI VỚI CÁC BỊ CÁO LÀ TƯƠNG XỨNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_065.wav,117080,NHỮNG NGƯỜI SỐNG THÌ THA THẨN TRONG NHÀ NGOÀI NGÕ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_087.wav,77080,CẢ KHÔNG GIAN NHUỐM MÀU TRO BẾP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_091.wav,66080,TRÁN GIÔ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_097.wav,68080,THU CHẠM NGÕ RẤT HIỀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_107.wav,156080,TRÔNG MỘT CÔ NÀNG ĐỔ NGƯỜI LÊN LƯNG ANH NGƯỜI YÊU GẦY CÒM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_109.wav,82080,DOANH NGHIỆP TUYỂN DỤNG LAO ĐỘNG NƯỚC NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_115.wav,124080,THỜI HẠN SỬ DỤNG VÀ LOẠI SẢN PHẨM BỘT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_119.wav,126080,MÀ CÒN BỊ NHỮNG BỘ MẶT LẠNH TE KIA HOẠNH HỌE
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_120.wav,97080,NHƯNG MÙI HÔI VẪN XỘC VÀO TẬN ÓC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_125.wav,72080,ĐANG LÀM VIỆC KHÔNG NGỪNG NGHỈ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_129.wav,75080,THU HÚT RẤT LÀ NHIỀU LOÀI CHIM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_135.wav,112080,KHI CÔ THỂ HIỆN KHÔNG MẤY THÀNH CÔNG Ở LỄ KHAI MẠC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_136.wav,68080,RA HIỆU CHO TÔI IM LẶNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_143.wav,139080,NHỎ ĐƯA TAY RA CÀO HẾT BÙN KHÔ TRÊN CỔ TỚ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_150.wav,86080,NGỒI CHỒM CHỒM CÁCH CHỈ MẤY MÉT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_155.wav,76080,NỬA VÒNG TRÁI ĐẤT HƠN BẢY NĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_170.wav,124080,CHẬM NẮM BẮT XU HƯỚNG PHÁT TRIỂN CÔNG NGHỆ MỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_185.wav,82080,MÀ MƯỜNG TƯỢNG RA HÌNH BÓNG MẸ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_189.wav,78080,MỖI NGƯỜI MỘT SỐ PHẬN EM À
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_199.wav,94080,LẦN LỮA MÃI MỚI GẶP ĐƯỢC TUYÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_200.wav,88080,LÀM ĐƯỜNG DÂY ĐỂ NỐI CÁC MẢNH ĐỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_202.wav,123080,CHỊ HAI CHỦ QUÁN NGHE BÀN TÁN RÔM RẢ CŨNG RA GÓP CHUYỆN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_206.wav,146080,TỨC KHẮC ẬP VỀ KÉO MỌI NGƯỜI THỨ TRỞ LẠI THỜI HOANG SƠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_209.wav,102080,TÊN GỌI TẠI ĐỊA PHƯƠNG LÀ TRẮC THỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_212.wav,84080,BỐN CHIẾC TRỐNG ĐẠI PHÈNG LA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_226.wav,66080,MỘT CÚ NGOẶT KHÔNG CHÍNH XÁC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_231.wav,116080,MỚI ĐÂY NHẤT LÀ CÁC TIỂU VƯƠNG QUỐC Ả RẬP THỐNG NHẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_238.wav,98080,CỘNG ĐỒNG NGƯỜI MÊ TOÁN HỌC TRÊN TOÀN THẾ GIỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_249.wav,132080,TÔI NGHĨ THỦ TƯỚNG SẼ KHÔNG NÉ TRÁNH BẤT CỨ CÂU HỎI NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_251.wav,80080,BỌN BUÔN LẬU MA TÚY VÀ VŨ KHÍ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_261.wav,114080,LẠI QUAY RA TẬP VIẾT BÁO RỒI GỬI VU VƠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_263.wav,142080,NGHE TIẾNG XÌNH XỊCH XA XA THÌ ĐOÁN TRÚNG PHÓC LÀ HÚT HẦM CẦU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_270.wav,70080,CHƯA RỤC RỊCH GÌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_286.wav,116080,THẾ NHƯNG KHI GIÁ PHÔI THÉP THẾ GIỚI CAO DẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV05_295.wav,90080,LÀM HỎNG CÁC THIẾT BỊ CỦA TÊN LỬA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_001.wav,86080,ĐƠN GIẢN LÀ TÁN GẪU VỚI NHAU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_006.wav,104080,MÀ DO LỐI SỐNG CHUI NHỦI CỦA CHÚNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_016.wav,102080,RÂU RIA ĐÃ BA NGÀY KHÔNG CẠO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_021.wav,82080,MỘT ĐƯỜNG HƯỚNG CHUYÊN NGHIỆP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_022.wav,100080,LÍNH CỨU HỎA KHÓ TIẾP CẬN HIỆN TRƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_034.wav,159080,NHỮNG NGƯỜI TRÊN GHE CỦA CÔNG AN ĐÃ NHẮM THẲNG VÀO GHE ANH CHỦ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_037.wav,90080,ĐỪNG BUỒN VÌ TỰ GIẰN VẶT MÌNH NỮA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_040.wav,118080,VÀ HÍT VÀO MŨI LÀM CHẤT NÀY LOÃNG RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_042.wav,118080,ĐANG HẤP DẪN CÁC TẬP ĐOÀN PHÂN PHỐI ĐA QUỐC GIA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_054.wav,118080,DÙ LÀ ĐẬU SỨC MẠNH HOẶC CẢI BÔNG KHỦNG LONG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_061.wav,146080,VÌ NÓ KHÔNG NHẮC ĐẾN NHỮNG CUỘC TẤN CÔNG NHẮM VÀO NGƯỜI DO THÁI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_070.wav,122080,RỒI KHỀ KHÀ ĐÔI CÂU VỌNG CỔ VỚI CHÂN CHUỘT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_078.wav,93080,Ở LỚP NẤU ĂN GIA ĐÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_079.wav,142080,MÀ BẠN CÓ THỂ THAM KHẢO ĐỂ LÀM ĐẸP GIAN BẾP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_098.wav,145080,CÁI VỊ CHÁT CHÁT VÀ ĐẮNG NGẮT CỦA CÀ PHÊ NGUYÊN CHẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_103.wav,154080,CÁC EM NHỎ SẼ KHÔNG CÒN PHẢI ĐI TRÊN NHỮNG CHUYẾN ĐÒ NGUY HIỂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_108.wav,124080,LÀM CÔ NÀNG RỌ RẠY THỨC TRẮNG CẢ ĐÊM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_117.wav,151080,GIẢI QUYẾT KHỐI UNG NHỌT NÀY PHẢI CẦN ĐẾN MỘT CUỘC ĐẠI PHẪU NGHIÊM TÚC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_126.wav,126080,THẬM CHÍ CÀNG GIỐNG ÁO QUÍ NÀNG CÀNG MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_139.wav,98080,CÒN BỘ KHANG HI TỪ ĐIỂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_143.wav,142080,ĐÔI MÔI MẸ PHAI SON MẤP MÁY MỘT LỜI CA HOANG HOẢI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_157.wav,151080,SỐ KHÁC SUY ĐOÁN RẰNG ANH TA HÀNH ĐỘNG ÁC TÂM VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_168.wav,52080,LÀM KHUNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_184.wav,154080,HOẶC BẠN SẼ ĐẾN ĐẤY VỚI MỘT TÂM TRẠNG CHÁN NGÁN VÔ CÙNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_195.wav,96080,PHẢI ĐƯỢC THỰC HIỆN TRÊN CƠ SỞ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_210.wav,91080,HAI MƯƠI SÁU HAI MƯƠI BẢY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_212.wav,72080,BA MƯƠI BA MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_222.wav,88080,NĂM MƯƠI NĂM MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_240.wav,108080,TÁM MƯƠI SÁU TÁM MƯƠI BẢY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_241.wav,90080,TÁM MƯƠI TÁM TÁM MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_247.wav,98080,MỘT TRĂM MỘT HAI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_248.wav,98080,MỘT BA NĂM BẢY CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_252.wav,97080,NÓI TRƯỚC BƯỚC KHÔNG QUA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_253.wav,108080,CHẲNG LÀ MẤY HÔM NAY TÔI ĐAU BỤNG QUÁ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_261.wav,108080,SAO KẾT QUẢ RA TỆ VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_272.wav,134080,TÔI CHỈ MUỐN XEM NHỮNG ĐOẠN HAY MÀ THÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_285.wav,114080,CÔNG TY TRÁCH NHIỆM HỮU HẠN ĂN UỐNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_286.wav,123080,PHÍ CHUYỂN GIAO CÔNG NGHỆ LÀ BA CHỤC NGÀN ĐỒNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_287.wav,114080,LƯƠNG BA CỌC BA ĐỒNG THÌ NUÔI ĐƯỢC AI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV06_296.wav,82080,CÔ ẤY ĐÃ QUÁ CHÉN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_002.wav,111080,HẰNG NĂM CHÚNG TA THẢI RA HÀNG TỈ THIẾT BỊ ĐIỆN TỬ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_025.wav,98080,CHO NHỮNG CHUYẾN DÃ NGOẠI CỦA DU KHÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_030.wav,74080,NHỮNG NHƯỢC ĐIỂM CỦA MÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_036.wav,96080,VÌ ĐÓ MỚI CHÍNH LÀ THỨ BẠN CẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_039.wav,122080,GIÓ TRỜI KHÔNG THỂ THÔNG THỐC THỔI VÀO KHAI TRUNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_044.wav,122080,BỞI CƠ QUAN CHUYÊN MÔN HOẶC THUÊ TỔ CHỨC KIỂM TOÁN ĐỘC LẬP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_045.wav,105080,HOẶC CHO VÀO VẠI MUỐI ĐỂ LỢN ĂN DẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_064.wav,146080,CỨ CHỤM CÁC ĐẦU NGÓN TAY LẠI MỘT CHỖ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_066.wav,134080,ĐÃ CÓ DỰ ÁN ĐỂ XÂY DỰNG MỘT CÁI CẦU TỪ ĐẤT LIỀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_067.wav,108080,CHẠM VÀO PHẦN THÓP MỀM TRÊN ĐẦU BÉ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_084.wav,122080,THÌ BỖNG NGHE THẤY TIẾNG OÁC OÁC TỪ VẠT RỪNG PHI LAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_093.wav,106080,PHỤC VỤ CHO MÙA THI ĐẠI HỌC ĐANG ĐẾN SÁT SẠT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_098.wav,108080,TRẬN CHIẾN XÍCH BÍCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_107.wav,126080,NGUYÊN THỨ TRƯỞNG BỘ ĐẠI HỌC VÀ GIÁO DỤC CHUYÊN NGHIỆP CŨ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_115.wav,121080,VÀO CƠ QUAN LÀ ANH HÓT GIỐNG HỆT NHỒNG MỚI LỘT LƯỠI VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_125.wav,114080,ÁNG CHỪNG ĐÃ NGOẠI BẢY MƯƠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_127.wav,68080,CÓ HAI TÁC DỤNG TÍCH CỰC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_134.wav,91080,THAM GIA GIẢNG DẠY LÀ LỰC LƯỢNG ĐOÀN VIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_138.wav,76080,ĐÓ HẲN LÀ MỘT MÓN QUÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_141.wav,110080,VÀ KHI THẤY TÔI VẪN KIÊN ĐỊNH TRẢ LỜI TRỚT QUỚT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_151.wav,64080,RÔ BÓT THÔNG MINH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_156.wav,92080,ĐẦU TIÊN LÀ BÀ CON MÌNH VẬT VÃ LÀM ĂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_168.wav,112080,MÀ CHO ĐẾN LÚC ĐÓ ĐƯỢC XEM LÀ CỦA TƯ NHÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_170.wav,137080,NHƯ LẦN NÀY ĐƯỢC NẾM MÓN GIÒ THỦ HOÀN TOÀN LÀM TỪ TAI HEO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_182.wav,129080,NHỮNG NGƯỜI HOÀI NGHI NÓI RẰNG GIỮ ĐƯỢC VẬT TREO LỦNG LẲNG TRÊN NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_185.wav,82080,CHÍU CHÍT GỢI TÌNH MẸ CON SUM HỌP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_190.wav,78080,NƠI CÓ MẤY TÊN TRÔNG RẤT GẤU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_192.wav,61080,NHIỀU NGƯỜI CHO BIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_194.wav,94080,NHIỀU TRỤ ĐÁ DI TÍCH NẰM NGHIÊNG NGẢ VÀ VỠ NÁT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_195.wav,124080,HỌ CŨNG LUÔN TRÁNH XA NHỮNG TÌNH HUỐNG CÓ THỂ GÂY HẠI CHO HỌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_197.wav,130080,TRONG CUỘC SỐNG CỦA TÔI CHÚNG KHÔNG DÙNG ĐỂ KIẾM RA LỢI NHUẬN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_209.wav,79080,HAI MƯƠI BỐN HAI MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_211.wav,76080,HAI MƯƠI TÁM HAI MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_223.wav,82080,NĂM MƯƠI HAI NĂM MƯƠI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_231.wav,82080,SÁU MƯƠI TÁM SÁU MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_236.wav,73080,BẢY MƯƠI TÁM BẢY MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_246.wav,82080,CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_264.wav,90080,BUỔI SÁNG THÀNH PHỐ Ô NHIỄM HƠN BUỔI TRƯA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_266.wav,82080,NÓNG GIẬN TÔI ĐÃ LĂNG MẠ ANH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV07_295.wav,120080,CHỦ TÀU CHO BIẾT SẼ TIẾP TỤC THƯƠNG THUYẾT VỀ SỐ CHI PHÍ NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_002.wav,76080,ĐỪNG ĐỂ CON SÂU ĂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_005.wav,109080,CÂY CỔ THỤ ẤY BẤT CHỢT BỊ BỆNH TẬT QUẬT NGÃ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_014.wav,116080,VÀ NẾU BẠN TRÓT LÀM LỘN XỘN MÀN HÌNH NỀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_025.wav,118080,ĐẠO DIỄN TRẺ NÀY CÓ NHIỀU ĐIỀU NGẪM NGỢI VỀ NGHỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_032.wav,166080,SẼ KHÔNG KHIẾN BẠN TRÔNG GẦY NHƯ NHỮNG TRANG PHỤC MỘT MÀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_053.wav,133080,BỞI CƠ QUAN CHUYÊN MÔN HOẶC THUÊ TỔ CHỨC KIỂM TOÁN ĐỘC LẬP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_057.wav,138080,NÓ LẬT ĐẬT ĐẠP CHIẾC XE CÀ TÀNG BĂNG NGAY RA ĐẦU ĐƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_062.wav,104080,HOẶC CHỈ BIỂU HIỆN BẰNG CÁC RỐI LOẠN CO BÓP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_071.wav,143080,KHI TÔI LÀ CON BÉ LỚP BỐN THÌ CÂY VẢ ĐÃ CAO QUÁ NÓC NHÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_077.wav,96080,BUỔI ĐẦU THẬT KHÓ KHĂN THEO ĐUỔI CHƯƠNG TRÌNH HỌC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_085.wav,133080,VIỆC ĐƯA TÍN HIỆU TRUYỀN HÌNH TRỰC TIẾP BẰNG HỆ THỐNG CÁP QUANG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_090.wav,76080,VÌ KHÔNG CÓ TIỀN ĐÓNG HỌC PHÍ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_093.wav,136080,THÌ BỖNG NGHE MẤY TIẾNG OÁC OÁC TỪ VẠT RỪNG PHI LAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_100.wav,120080,HAY ĐẢM BẢO RẰNG NGÀY NÀO CHÚNG CŨNG ĐƯỢC ĐI NHỮNG ĐÔI TẤT SẠCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_127.wav,102080,VỀ VIỆC MANG ĐẾN CHO CÁC EM NIỀM VUI HỌC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_128.wav,84080,CÓ LẼ PHẢI MẤT NHIỀU THỜI GIAN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_129.wav,124080,NƯỚC GỖ TRÊN CHIẾC ĐỒNG HỒ ĐÃ BẮT LÊN MÀU GỤ BÓNG LOÁNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_141.wav,154080,KHI SỨC ÉP BIẾN MẤT CHÚNG TRỞ LẠI TÌNH TRẠNG MỀM DẺO BÌNH THƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_143.wav,98080,THAM GIA GIẢNG DẠY LÀ LỰC LƯỢNG ĐOÀN VIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_145.wav,86080,VÀ VẢI HOẶC CÓI NHIỀU MÀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_159.wav,90080,VỚI NGƯỜI MẸ Ở XÓM CHÀI LONG BIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_163.wav,147080,CHƯƠNG TRÌNH ĐÃ TẠO ĐƯỢC HIỆU ỨNG TỐT TỪ PHÍA KHÁN GIẢ NHÍ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_166.wav,116080,DỊCH VỤ KIỂM TRA SỨC KHỎE ĐỊNH KỲ LÀ MỘT Ý KIẾN HAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_180.wav,100080,CHÍNH SỰ LÊN SÀN Ồ ẠT ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_182.wav,108080,KẾT QUẢ CHỈ CÓ VỎN VẸN BA NGƯỜI CÒN BIẾT DỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_193.wav,70080,LÀ TƯƠNG ĐỐI CÓ HIỆU QUẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_196.wav,90080,PHẦN LỚN HỌC SINH GIÀU CÓ NGƯỜI NƯỚC NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_201.wav,72080,KHÔNG MỘT HAI BA BỐN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_208.wav,72080,HAI MƯƠI HAI HAI MƯƠI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_210.wav,76080,HAI MƯƠI SÁU HAI MƯƠI BẢY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_214.wav,90080,BA MƯƠI BỐN BA MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_222.wav,76080,NĂM MƯƠI NĂM MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_224.wav,76080,NĂM MƯƠI BỐN NĂM MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_233.wav,104080,BẢY MƯƠI HAI BẢY MƯƠI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_270.wav,60080,NÓI THẬT ĐẤY À
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_271.wav,76080,QUÁ TỐT RỒI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_274.wav,58080,TÔI CHẾT CÙNG VỚI ÁNH TRĂNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_277.wav,80080,ĐÀN ÔNG CÓ HAI THỨ ĐỂ BUỒN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_295.wav,92080,GIÀU ĐỔI BẠN SANG ĐỔI VỢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV08_300.wav,96080,ÁN MẠNG TRÊN TOA TÀU TỐC HÀNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_015.wav,106080,LÀM RỜM RỢP BIỂN MÂY LAU LÁCH PHẤT PHƠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_022.wav,76080,TRỨNG MỰC QUYẾN RŨ CÁC NGƯ DÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_029.wav,74080,BẠN CÓ THỂ KHIỂN TRÁCH NGƯỜI LÁI XE
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_035.wav,99080,LOÁNG THOÁNG TRĂN TRỞ LOÁNG THOÁNG BUỒN VUI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_038.wav,119080,PHÒNG TRÀ KHIÊU VŨ CÁNH QUẠT CỐI XAY ĐỎ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_039.wav,110080,THỊT NGỌT LỪ ẤY LẠI MANG THEO TRÙNG SÁN GÂY BỆNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_041.wav,100080,HIỆN TRONG NHIỀU LOẠI TỎI CÓ MẶT TRÊN THỊ TRƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_047.wav,138080,NGÀY CĂN BẬC HAI CHỈ DIỄN RA CHÍN LẦN TRONG MỘT THẾ KỶ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_055.wav,110080,RỒI RƠM RẠ KHÔ THEO THÂN HÌNH GẦY NGẲNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_077.wav,91080,ĐỂ CÓ THỂ VẬN HÀNH CHÚNG ĐƯỢC HIỆU QUẢ HƠN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_081.wav,74080,ĐƯỢC MỸ RÁO RIẾT TUNG RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_083.wav,78080,VÌ LƯỢNG CA KHÚC MỚI QUÁ NHIỀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_091.wav,61080,NƯỚC CHẢY QUÁ MẠNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_098.wav,118080,KHIẾN CẢ HAI PHẢI GIẬN HỜN VÔ LÝ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_106.wav,64080,RỒI CHÌM LỈM MỘT THỜI GIAN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_110.wav,116080,KHI MIỆNG VẪN NGẬM BẦU VÚ QUẮT QUEO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_134.wav,102080,CÂU TRẢ LỜI CỦA ÔNG TA RẤT KHIẾM NHÃ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_139.wav,112080,NẾU CHỦ ĐẦU TƯ KHÔNG TỰ PHÁ DỠ THÌ BỊ CƯỠNG CHẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_142.wav,124080,VỀ CHUYỆN ĐANG THEO DÕI BỌN GIÁN ĐIỆP NƯỚC NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_144.wav,126080,ĐƯỢC CẮT TỪ VỎ CHĂN BỘ ĐỘI CŨ CỦA CÁC ÔNG BỐ RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_158.wav,114080,SỢ NHẤT LÀ MÙA MƯA SẤM SÉT ĐÙNG ĐOÀNG TRÊN NÚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_159.wav,138080,TỨC LẤY SỤN LÀNH TỪ NƠI KHÔNG PHẢI CHỊU LỰC GHÉP VÀO NƠI HƯ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_163.wav,138080,ĐIỀU VÔ CÙNG QUAN TRỌNG TRONG THỜI ĐẠI CÓ QUÁ NHIỀU HOẠT ĐỘNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_166.wav,136080,THÍ SINH TỰ DO CẦN QUAN TÂM ĐẾN ĐỘ VÊNH KIẾN THỨC CÁC MÔN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_168.wav,132080,MỖI NGƯỜI CHÚNG TA SẼ CÓ NHỮNG THỨ KHÁC NHAU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_178.wav,96080,VÀ THẬM CHÍ BẠN CŨNG KHÔNG NÊN CỐ GẮNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_194.wav,105080,TRÊN BẦU TRỜI ÁNH TRĂNG SÁNG VẰNG VẶC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_198.wav,111080,LÀ TỔ TIÊN CỦA ÔNG ĐẶNG LÊN ĐẢM TRÁCH VIỆC DẪN ĐƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_203.wav,88080,TÁM CHÍN MƯỜI MƯỜI MỘT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_204.wav,97080,MƯỜI MỘT MƯỜI HAI MƯỜI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_222.wav,102080,NĂM MƯƠI NĂM MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_246.wav,65080,CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_267.wav,102080,CĂN NHÀ ĐẰNG KIA NGHE NÓI CÓ MA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_268.wav,115080,THÚ THẬT TUI CHƯA TỪNG CHƠI GÁI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_280.wav,102080,XUÂN NÀY EM KHÔNG VỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_286.wav,48080,CÓ CÒN HƠN KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_288.wav,100080,CHẮC SẮP TỚI THU XẾP ĐI DU LỊCH THÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_289.wav,136080,PHƯƠNG CHÂM SỐNG CỦA TÔI LÀ NGƯỜI KHÔNG VÌ MÌNH TRỜI TRU ĐẤT DIỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_293.wav,72080,NÓ TRỐN MẤT TIÊU RỒI CÒN ĐÂU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV09_297.wav,70080,THẾ NÀO LÀ HOÀN HẢO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_010.wav,90080,KHI BỊ CÔNG AN THỘP CỔ KHẨN CẤP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_014.wav,98080,SAU KHI ĐỌC NHỮNG THÔNG TIN TRÊN BÁO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_017.wav,92080,NGA KHI ẤY CÀNG THÌN NẾT NA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_020.wav,114080,VIỆC ÁP DỤNG CẢ BÀN VÁ LỖI VÀ CÔNG CỤ QUÉT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_024.wav,94080,NGOÀI TRỜI MƯA CỨ LAY PHAY RẮC HẠT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_030.wav,170080,NUÔI MÔ HÌNH TINH HOÀN RỒI TẠO RA TINH HOÀN VỚI ĐẦY ĐỦ HÌNH HÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_035.wav,82080,CÓ THỂ GIÚP TA QUÊN ĐI NHỮNG NỖI ƯU PHIỀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_043.wav,80080,MÀ DUNG DĂNG NHÉ CẦM TAY ĐẤT TRỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_045.wav,137080,TÔI LỚN LÊN TRONG SỰ GHẺ LẠNH CỦA NGƯỜI MẸ KẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_051.wav,61080,KHUNG RĂNG HÀM TRÊN KHUM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_067.wav,124080,THẾ NHƯNG TÔI KHÔNG ÂN HẬN KHI TRỞ THÀNH ĐẢ NỮ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_068.wav,138080,VỚI MỘT TỐC ĐỘ MÀ CHÚNG TA KHÔNG THỂ ĐI ĐẾN TẬN CÙNG CỦA NÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_072.wav,143080,TÔI THẤY ĐỒNG LƯƠNG CỦA MÌNH NĂM NĂM RỒI VẪN ĐỨNG NGUYÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_073.wav,94080,ĐỂ CHẤM DỨT NẠN BẠO HÀNH TRONG GIA ĐÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_076.wav,120080,LÀM ĐƯỜNG SÁ NGẬP XẮP XẮP QUANH NĂM SUỐT THÁNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_090.wav,87080,VỪA ĐƯỢC TRAO TẶNG GIẢI THƯỞNG NHÀ NƯỚC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_117.wav,44080,CÁI KHÓ LÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_129.wav,154080,ĐIỀU NÀY ĐÚNG VỚI MỌI CẤP ĐỘ VÀ TRONG MỌI LĨNH VỰC CỦA ĐỜI SỐNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_130.wav,44080,CAO NGỒNG NGỒNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_140.wav,201080,CHÀNG TRAI LỒM CỒM BÒ DẬY MẶT MÀY XANH LÉT NHƯ TÀU LÁ CHUỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_156.wav,176080,CHÍNH PHỦ ĐỒNG THỜI CŨNG LẬP THÊM CỤC XÚC TIẾN TIÊU THỤ DẦU CỌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_162.wav,101080,CŨNG LÀ TIN VUI CHO TẤT CẢ NHỮNG AI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_172.wav,81080,HƯỢM ĐÃ CÒN PHẢI ĐIỀU CHỈNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_176.wav,98080,TRONG TÌNH THẾ ẤY CHỈ ĐÁM TRẺ VEN SÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_189.wav,56080,NẾU ĐI TIẾP NHA TRANG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_194.wav,108080,TỨC CHANH CÓ THỂ TRỊ ĐƯỢC BỆNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_196.wav,92080,CHỈ MUỐN LÀM MỘT HƠI CHO ĐÃ CÁI MIỆNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_211.wav,74080,HAI MƯƠI TÁM HAI MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_212.wav,64080,BA MƯƠI BA MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_227.wav,51080,SÁU MƯƠI SÁU MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_234.wav,62080,BẢY MƯƠI BỐN BẢY MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_239.wav,60080,TÁM MƯƠI BỐN TÁM MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_245.wav,53080,CHÍN MƯƠI SÁU CHÍN MƯƠI BẢY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_247.wav,58080,MỘT TRĂM MỘT HAI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_249.wav,69080,KHÔNG HAI BỐN SÁU TÁM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_257.wav,70080,TIỀN ĐIỆN THÁNG NÀY BAO NHIÊU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_262.wav,88080,THUA XA TIỆM TẠP HOÁ NHÀ TAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_266.wav,86080,TỪ TRÊN NÓC NHÀ NHÌN XUỐNG CÓ KHÁC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_278.wav,78080,TỘI NGHIỆP ĐỨA NHỎ KHÔNG AI CHĂM SÓC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV10_294.wav,185080,EM SỢ CÓ MỘT NGÀY ANH GẶP NGƯỜI CON GÁI KHÁC TỐT HƠN EM RỒI ANH BỎ EM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_015.wav,86080,NỮ DIỄN VIÊN XINH ĐẸP PHẠM BĂNG BĂNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_022.wav,88080,SẼ LÀM GIẢM TÌNH TRẠNG ÓI ỌC CỦA TRẺ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_033.wav,99080,MÀ PHẢI CHE CHÁI Ở TẠM BÊN HÔNG NHÀ CHA RUỘT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_036.wav,72080,TÔI CÓ THỂ CĂM GIẬN ĐỦ THỨ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_038.wav,74080,MÀ PHẢI CHUYỂN QUA HÌNH THỨC GIAO DỊCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_046.wav,123080,ĐỪNG BAO GIỜ ĐỂ CHO BẤT KỲ AI NÓI VỚI BẠN RẰNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_048.wav,107080,VÀNG ÓNG ĐÔI GHỆT CAO CỔ CỦA NGỰ LÂM QUÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_057.wav,69080,NẾU VÌ CHÚNG TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_063.wav,88080,NẾU BẠN VẪN CẢM THẤY TỘI LỖI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_075.wav,98080,DÃI DẦU NẮNG GIÓ TRƯỜNG SƠN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_076.wav,108080,VỚI TRÊN LÀ NÚI VÀ DƯỚI LÀ SÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_077.wav,124080,VỚI SỰ XUẤT HIỆN CỦA QUÁI THÚ VÀ RỒNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_079.wav,114080,NÉT MẶT HỌ KHÔNG NGỜI LÊN HẠNH PHÚC CỦA NGƯỜI MẸ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_081.wav,76080,MỘT SỐ NGƯỜI CHO RẰNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_083.wav,116080,MỘT SINH VIÊN ĐƯỢC VAY VỐN TÍN DỤNG HỌC TẬP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_095.wav,104080,MỌI THỨ ĐỀU ĐƯỢC MỔ XẺ LẠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_122.wav,60080,KHÔNG PHẢI NẮP KHUM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_123.wav,92080,CÁC CÔNG TY DU LỊCH PHẢI XÁC ĐỊNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_129.wav,92080,ĐI BỘ LEO NÚI ĐẾN NHỪ CHÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_131.wav,172080,THÌ CHỦ ĐẦU TƯ PHẢI TỰ PHÁ DỠ PHẦN NỘI DUNG SAI PHÉP ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_136.wav,150080,KHI NHÂN VIÊN CỨU HỘ CỐ GẮNG ĐƯA NÓ LÊN SÀ LAN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_137.wav,114080,NHỮNG NGƯỜI NÀY ĐỀU ĐƯỢC ĐÀO TẠO VỀ HỘI HỌA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_147.wav,199080,GẮN LÔNG CHIM HỘT ĐÁ LÓNG LÁNH HAY BÈO DÚN TÙA LUA ĐẦY CỔ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_160.wav,80080,NGỤ ẤP HÒN NGANG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_164.wav,172080,ÍT NHẤT Ở HƠN BA MƯƠI TRƯỜNG THUỘC CÁC ĐỊA PHƯƠNG NÓI TRÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_182.wav,88080,ĐẶC ĐIỂM CỦA PHẨY TRÙNG TẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_193.wav,86080,VÌ BAN ĐÊM CHỊ NGỦ KHÔNG NGON
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_198.wav,154080,LƠ LỬNG TRÊN ĐẦU LÀ NHỮNG CHIẾC BẪY ĐÁ HÀNG TRĂM KHỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_200.wav,71080,NĂM ĐẦU TIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_234.wav,98080,BẢY MƯƠI BỐN BẢY MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_242.wav,92080,CHÍN MƯƠI CHÍN MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_246.wav,86080,CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_252.wav,139080,BÂY GIỜ CƯỚP NHIỀU QUÁ ĐI ĐƯỜNG CŨNG THẤY SỢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_262.wav,122080,TÌM HUNG THỦ HIẾP DÂM BẰNG NƯỚC BỌT NẠN NHÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_269.wav,149080,CHÚNG TÔI YÊU NHAU ĐƯỢC HAI NĂM THÌ GIA ĐÌNH TÔI XẢY RA CHUYỆN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_273.wav,86080,TRỌNG TÀI PHẠT THẺ ĐỎ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_274.wav,97080,KIỂU NÀY CHẮC PHẢI CẮT GIẢM BIÊN CHẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_282.wav,98080,THÔI THÌ CỨ SẮP XẾP NHƯ VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_289.wav,155080,THEO PHÓ CHỦ TỊCH ỦY BAN AN TOÀN GIAO THÔNG QUỐC GIA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV11_298.wav,125080,CHUẨN BỊ CHO NGÀY KHAI TRƯƠNG CỬA HÀNG ĐẦU TIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_006.wav,132080,TỪ SỰ DƯ THỪA QUÁ MỨC CỦA LUỒNG TIỀN NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_011.wav,105080,ĐÓ CHỨNG TỎ RẰNG CHÚNG TA ĐÃ GIÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_015.wav,82080,TRẢ LẠI ĐẤT CHO RỪNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_032.wav,137080,CÁC LOẠI CÂY TRỒNG Ở RỪNG NÀY TOÀN CÂY KÉM GIÁ TRỊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_054.wav,156080,THIẾU SỰ QUAN TÂM ĐÚNG MỨC TỪ CÁC CƠ QUAN CHỨC NĂNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_056.wav,95080,TẠI CHỢ CÁ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_057.wav,138080,KHÔNG PHẢI VÌ TÔI KHÔNG COI TRỌNG CHẤT LƯỢNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_065.wav,144080,THÌ ĐỌC ĐƯỢC HỒI KÝ KHÔNG THỂ CHUỘC LỖI TRÊN BÁO TUỔI TRẺ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_066.wav,108080,THIẾU TƯỚNG PHẠM QUÝ NGỌ CHO BIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_068.wav,100080,KHÔNG MỘT CHÚT TRẦY TRỤA MÀ ĐỀN CÁI GÌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_071.wav,126080,NÓ ĐƯỢC ĐẶT TRONG MỘT HỘP ĐỰNG TRANG SỨC BỌC DA ĐỎ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_075.wav,157080,NHÓM THANH LONG TRẺ DIỄN TIỂU PHẨM HÀI HẮC BẠCH TRANH HÙNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_076.wav,114080,TỚ ĐI KIẾM NHÀ TRỌ RỒI NHƯNG KHÓ QUÁ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_079.wav,106080,XANH CỎ MƯỢT MÀ VEN ĐƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_080.wav,113080,CHÍNH THỨC ĐÃ LÂY LAN RA BÊN NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_100.wav,154080,PHỤ HUYNH VÀ HỌC SINH ĐANG PHẢI È CỔ VÌ SÁCH GIÁ CAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_101.wav,156080,KHI CHÍNH PHỦ LÚC ĐẦU ĐỀ NGHỊ ÂN XÁ CHO NHỮNG NGƯỜI NỔI DẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_116.wav,91080,DƯỚI ÁNH ĐÈN MỜ MỜ ẢO ẢO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_128.wav,127080,TRONG CUỘC BỎ PHIẾU TẠI HỘI ĐỒNG BẢO AN HAI NGÀY TRƯỚC ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_132.wav,106080,HẦU HẾT NHỮNG VẤN ĐỀ XẢY RA TRÊN THẾ GIỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_135.wav,80080,ÔNG ĐƯỢC NHIỀU NGƯỜI BIẾT ĐẾN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_144.wav,66080,TRẢ LỜI TÔI BIẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_166.wav,86080,ỊCH GÃ TO BÉO ỤC ỊCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_169.wav,74080,ÁO RÁCH LƯƠM BƯƠM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_173.wav,89080,ĐỐI VỚI NHỮNG PHẢN ỨNG KHÁC BIỆT ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_182.wav,82080,VÀ ĐÃ HIẾN MÁU BA LẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_186.wav,106080,TIẾNG HÉT ĐỒNG THANH CỦA MẤY CHỤC CON NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_192.wav,88080,TRANG THỨ HAI CỦA TỜ BÁO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_197.wav,150080,SAU ĐÓ BÀ HÀNG XÓM TÍNH TÌNH XỞI LỞI CHẠY QUA KỂ VỚI TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_213.wav,91080,BA MƯƠI HAI BA MƯƠI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_223.wav,90080,NĂM MƯƠI HAI NĂM MƯƠI BA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_224.wav,90080,NĂM MƯƠI BỐN NĂM MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_227.wav,81080,SÁU MƯƠI SÁU MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_232.wav,78080,BẢY MƯƠI BẢY MƯƠI MỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_244.wav,86080,CHÍN MƯƠI BỐN CHÍN MƯƠI LĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_248.wav,148080,MỘT BA NĂM BẢY CHÍN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_271.wav,127080,BÀ CON RANG TRÍ CÀNH ĐÀO ĐỂ CHUẨN BỊ ĐÓN TẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_275.wav,147080,TÔI KHÔNG THẤY GÌ LÀ ĐÚNG KHI TĂNG GIÁ XE VÀO CÁC DỊP TẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_280.wav,100080,DU LỊCH SẼ TRỞ THÀNH NGÀNH KINH TẾ MŨI NHỌN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV12_290.wav,120080,TỪ KHI CHỒNG QUA ĐỜI VÌ BỆNH TẬT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_019.wav,132026,ĐƠN VỊ MÌNH KHÔNG NGHE AI NÓI GÌ CHƯA HẲN ĐÃ TỐT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_026.wav,134026,KHÔNG AI ĐƯỢC NGƯỢC ĐÃI CÁC EM VÌ CÁC EM HỌC CHẬM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_054.wav,180026,GIÀ LÀNG NGUYỄN MẠNH TƯỜNG TRẢ LỜI PHỎNG VẤN BÁO GIỚI ẢNH TRUNG DÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_058.wav,139026,ĐÓ LÀ GIAI ĐOẠN THỜI TIẾT ÍT BIẾN ĐỘNG VÀ NHIỆT ĐỘ KHÔNG QUÁ THẤP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_061.wav,132026,NHƯNG SAU NGHE CON NÓI RA NÓI VÀO LẠI ÁC CẢM VỚI EM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_069.wav,160026,NHỮNG ĐIẾU THUỐC VÔ Ý ĐỐT CHÁY VÀI CHỖ TRÊN CHIẾC SÔ PHA BỌC VẢI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_075.wav,140026,BẠN CÓ THỂ TẮT CHƯƠNG TRÌNH ĐÓ ĐI VÀ THỰC HIỆN THAO TÁC CUỐI CÙNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_078.wav,146026,KHẮP NƠI QUANH CHÚNG TÔI VƯƠNG VÃI XÁC CHẾT CỦA NGƯỜI DÂN VÔ TỘI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_088.wav,161026,NHỮNG CHIẾC LỒNG ĐÈN ĐỒ CHƠI VIỆT VẪN LẶNG LẼ MANG HỒN VIỆT XUỐNG PHỐ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_089.wav,206026,NHÀ VĂN NGUYÊN NGỌC SINH VIÊN CÓ QUYỀN HOÀI NGHI VÀ TRANH CÃI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_097.wav,236026,CUỘC THI CÒN CÓ HAI GIẢI NHÌ BA GIẢI BA VÀ BỐN GIẢI KHUYẾN KHÍCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_098.wav,136026,HẦU NHƯ CÁC PHẢN ỨNG PHỤ NẶNG NỀ LÀ RẤT HIẾM GẶP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_104.wav,140026,SỐ TIỀN QUÁ LỚN KHIẾN GIA ĐÌNH HƯƠNG PHẠM VÀ LÊ CHOÁNG VÁNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_105.wav,251026,NHÓC ĐỎ MẶT TÍA TAI NHÓC THUA CHỊ MỘT TUỔI THÔI ĐẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_106.wav,146026,CẢM GIÁC ĐƯỢC CHIA SẺ VỚI BẠN ĐỜI CÙNG SỞ THÍCH THÚ VỊ LẮM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_136.wav,136026,TÔI VÀO QUẦY GIẢI KHÁT ĐẦU TIÊN VÀ GỌI MỘT CỐC NƯỚC CAM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_137.wav,104026,MẸ LẦN TAY TRONG VÍ VÀ LẤY RA CHIẾC PHONG BÌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_139.wav,132026,TIÊU NHƯ PHONG CHẠY TRỐN KHỎI KINH THÀNH ĐỂ TÌM HUNG THỦ THẬT SỰ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_146.wav,164026,CÓ NGÀY CÁC BÁC SĨ ĐIỀU DƯỠNG MỔ MẮT CHO HÀNG TRĂM NGƯỜI MÙ NGHÈO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_147.wav,147026,KHÔNG AI MUỐN CÓ TIÊU CỰC CẢ VÀ CŨNG ĐỪNG TUYỆT ĐỐI HÓA VẤN ĐỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_150.wav,132026,VỢ HẮN THỊ NGẦN MANG LƯỚI RA VÁ ĐỂ CHIỀU THẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_164.wav,117026,HIỆN CƠ QUAN CHỨC NĂNG ĐANG TIẾP TỤC ĐIỀU TRA VỤ VIỆC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_167.wav,123026,KHI BỊ PHÁT HIỆN HỌ ĐÃ TRẢ LỜI NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_210.wav,106026,RÀ SOÁT CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN CẢ NƯỚC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_211.wav,118026,KHÔNG NẢN NGHĨA TIN RẰNG SẼ CÓ MỘT GIẢI PHÁP NÀO ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_222.wav,119026,MẸ CŨNG ĐÃ TỪNG THỐNG KHỔ TUYỆT VỌNG VÀ CÔ ĐƠN NHƯ VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_225.wav,118026,HAI LOẠI VĂN NÀY NÊN ĐƯỢC COI TRỌNG NHƯ NHAU TRONG CÁC KỲ THI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_226.wav,115026,VẬY MỚI CÓ MỤC TIÊU ĐỂ MÀ PHẤN ĐẤU NÊN NGƯỜI CÓ Ý THỨC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_227.wav,104026,TẠI ĐÂY CÓ MỘT ÔNG TRƯỞNG PHÒNG NHÂN SỰ CÔNG TY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_230.wav,134026,CHỈ MỘT ĐIỀU ĐƠN GIẢN VẬY MÀ ANH ẤY KHÔNG BAO GIỜ THỰC HIỆN ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_239.wav,100026,CHẲNG CẦN NHÌN VỀ PHƯƠNG TÂY QUÊ HƯƠNG CỦA HÀNG HIỆU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_241.wav,84026,MÙA ĐÔNG CẢ CÁNH ĐỒNG CHUYỂN SANG MỘT MÀU VÀNG RỰC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_252.wav,126026,TÔI HỌC CÙNG VỚI CÁC ANH CHỊ LÀM VIỆC CHUYÊN VỀ SẢN XUẤT PHẦN MỀM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_255.wav,132026,CÓ LẼ ĐÂY LÀ LỜI QUẢNG CÁO KHÔNG CÔNG HAY NHẤT CHO DU LỊCH LÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_257.wav,114026,TỪ ĐÓ ĐẾN NAY GIA ĐÌNH CHỊ VẪN SỐNG TRONG CĂN NHÀ LỤP XỤP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_258.wav,102026,BẠN CẦN TRUNG THỰC VỚI NHÂN VIÊN CỦA MÌNH TRONG MỌI HOÀN CẢNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_263.wav,102026,MỘT SỐ ĐIỂM NƯỚC PHUN ĐẾN ĐÂU BAY HƠI HẾT ĐẾN ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_267.wav,126026,DO VẬY VẤN ĐỀ KHU TRÚ KHỐNG CHẾ BỆNH TẢ HIỆN NAY RẤT KHÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_276.wav,100026,ĐÓ LÀ CÂU HỎI MÀ ĐẾN NAY VẪN CHƯA CÓ CÂU TRẢ LỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV13_277.wav,127026,HÀ NỘI MỞ RỘNG KHU VỰC HỒ TÂY SÔNG HỒNG NÊN LÀ KHU VỰC TĨNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_018.wav,100026,BIÊN CHẾ NÀY NHÀ THANH GỌI LÀ AN NAM QUỐC NHẠC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_022.wav,96026,HƠN LÀ DẪN DẮT CÁC EM THEO CHỦ Ý CỦA GIÁO VIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_027.wav,162026,BẠN CÓ THỂ THAM KHẢO MỘT SƠ YẾU LÝ LỊCH ĐIỆN TỬ SAU ĐÂY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_035.wav,106026,NHẠC SĨ LA HỐI VỚI CA KHÚC XUÂN VÀ TUỔI TRẺ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_079.wav,108026,VẬY AI SẼ CHỊU TRÁCH NHIỆM VỀ NHỮNG TRƯỜNG HỢP NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_080.wav,132026,TUY PHÍA TRƯỚC CÒN VÔ VÀ KHÓ KHĂN ĐỐI VỚI CON
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_085.wav,154026,BỐN NĂM TRỜI BỊ CÂM MỘT MÌNH VỚI BÓNG MÌNH NHIỀU PHEN ÒA KHÓC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_086.wav,102026,EM SỢ MẤT ANH ẤY NHƯNG LẠI CẢM THẤY MÌNH BỊ XÚC PHẠM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_093.wav,140026,TRÒ ĐÙA ĐỐI VỚI THẦY NHƯNG LẠI LÀ CHÂN THẬT CHÂN THẬT VỚI MỘT NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_104.wav,139026,ĐÓ LÀ NHẬN XÉT CHUNG CỦA NHIỀU TỔNG GIÁM ĐỐC ĐIỀU HÀNH NGÀY NAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_108.wav,93026,NGƯỜI PHÁP ĐÃ ĐỒNG Ý VỚI CÁCH QUẢN LÝ LĨNH VỰC DÀNH RIÊNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_113.wav,107026,HẮN THAY ĐỔI LẦM LÌ SAU KHI THEO GIA ĐÌNH ĐẾN XỨ NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_114.wav,110026,YẾU TỐ HẤP DẪN MỚI THU HÚT ĐẦU TƯ NƯỚC NGOÀI VÀO VIỆT NAM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_115.wav,132026,VẬY MÀ GIỜ ĐÂY NÓ KHÔNG ĐỢI ĐƯỢC ĐẾN LÚC HUY VỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_116.wav,92026,MỘT GÓC CÂU CÁ TRÊN CẦU SÀI GÒN ẢNH MAI VINH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_123.wav,100026,MỘT VÀI NGƯỜI TRONG BỌN HỌ ĐƯA MẮT NHÌN MẢNH GIẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_134.wav,124026,NHƯNG TRƯỚC ĐÂY NHÌN TỪ BÊN NGOÀI NƠI NÀY KHÔNG KHÁC MỘT CĂN NHÀ HOANG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_140.wav,112026,CÓ NHƯNG PHẢI LÀ THUỐC ĐẶC TRỊ CỦA PHÁP HIẾM VÀ CỰC KỲ ĐẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_145.wav,86026,MỘT SỐ BẠN TRẺ CŨNG CÓ Ý NGHĨ NHƯ CAO CƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_151.wav,99026,TÔI ĐÃ CÓ THỜI GIAN TUYỆT VỜI KHI CHƠI CHO ĐỘI TUYỂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_156.wav,99026,THỈNH THOẢNG CON ĐI QUA DỪNG LẠI DỰNG XE NGỒI HÚT THUỐC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_163.wav,100026,CHÚ BỘ ĐỘI QUA NHỮNG CÂU CHUYỆN CỦA ÔNG MỚI GẦN GŨI LÀM SAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_180.wav,92026,ĂN CÁ NGỪ CÁ THU VÀ CÁ MÒI VỚI RAU TRỘN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_186.wav,90026,CÓ BẰNG THẠC SĨ NHỮNG NGÀNH TRÊN LÀ MỘT LỢI THẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_191.wav,144026,MINH NHẬT HỒNG QUÂN VŨ CÔNG THÀNH SƯU TẦM TỪ BÁO NƯỚC NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_194.wav,88026,MUỐN CÓ BẰNG LÁI PHẢI QUA MỘT ĐỢT THI RẤT KHẮT KHE
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_195.wav,174026,YÊU NHAU KHOẢNG VÀI THÁNG THÌ CHÚNG TÔI ĐÃ CÓ QUAN HỆ TÌNH DỤC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_199.wav,98026,KHÓ SAO DUYÊN DÁM CHO ANH UỐNG RƯỢU TRONG ĐÁM CƯỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_225.wav,136026,ÔNG DƯƠNG ĐỨC LÂN PHÓ TỔNG CỤC TRƯỞNG TỔNG CỤC DẠY NGHỀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_227.wav,102026,ĐỐI XỬ VỚI BẠN NHƯ NGƯỜI YÊU CŨ CỦA BẠN ĐÃ TỪNG LÀM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_235.wav,108026,THAM GIA THIẾT KẾ LĂNG CHỦ TỊCH HỒ CHÍ MINH THÌ CÓ NHIỀU NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_236.wav,98026,VÌ VẬY CÔNG TY B PHẢI CÓ TRÁCH NHIỆM BỒI THƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_256.wav,124026,NÔNG DÂN TRỒNG MÍA THAN CỨ MỘT VỤ ĐƯỢC LẠI BA VỤ THẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_280.wav,96026,THÌ NGƯỜI XEM CŨNG ĐƯỢC NÂNG CAO KIẾN THỨC VỀ ĐỊA LÝ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_283.wav,125026,NGÀY XƯA CÁC CỤ LÀM BÌA SÁCH LÀ MINH HOẠ CHO CUỐN SÁCH ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_285.wav,108026,TÔI ĐÃ NHIỀU LẦN PHẢN ĐỐI QUYẾT LIỆT VIỆC NƯỚC THẢI TUỒN RA NGOÀI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_286.wav,93026,NHIỀU GIA ĐÌNH HIỆN NAY THÍCH TỰ GIỚI THIỆU CHƯƠNG TRÌNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_289.wav,118026,TÔI LÀ MỘT NGƯỜI MIỀN TÂY ĐANG LÀ NGHIÊN CỨU SINH Ở MỸ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_291.wav,114026,CÀNG ĐI SÂU VÀO BÊN TRONG CẢNH TRÍ THIÊN NHIÊN CÀNG HÙNG VĨ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV14_294.wav,106026,MONG BẠN BÌNH TÂM SUY NGHĨ VÀ CHỌN ĐƯỢC CÁCH GIẢI QUYẾT TỐT NHẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_003.wav,116026,ĐIỀU NÀY KHÓ HƠN KHI BẠN VÀO BÀN TIỆC TOÀN NGƯỜI XA LẠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_013.wav,118026,CŨNG ĐỀU TRONG TƯ THẾ NGÕ NHỎ PHỐ NHỎ PHỞ TÔI Ở ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_014.wav,124026,THÀNH MỘT CHIẾC LỒNG ĐÈN KHỔNG LỒ TẠI CÔNG VIÊN Ở THỦ ĐÔ BẮC KINH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_020.wav,91026,CÂU CHUYỆN CỦA QUÁ KHỨ ÔNG KỂ KHÔNG BIẾT BAO NHIÊU LẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_021.wav,110026,MÀU SON TRÔNG THẬT TUYỆT TRÊN BẤT KÌ MÀU DA NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_026.wav,110026,ÔNG ĂN CHAY MÀ NGHĨ MẶN THÌ ĂN CHAY LÀM CHI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_037.wav,117026,TRÊN CƠ SỞ ĐÓ NHỮNG HÀNH VI VI PHẠM SẼ ĐƯỢC XỬ LÝ NGHIÊM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_038.wav,138026,MỘT CƠ QUAN CHÍNH THỨC ĐỂ KHÁCH HÀNG KHIẾU NẠI THAM KHẢO VÀ TIN TƯỞNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_047.wav,172026,MỘT TÌNH HUỐNG ỨNG XỬ SƯ PHẠM TÔI LÀM BỘ TỈNH RỤI ĐƯỢC CÔ DUYỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_050.wav,138026,CHẲNG LẼ ĂN CƠM NHÀ NGƯỜI MÀ LẠI KHÔNG CHĂM CHÚ LẮNG NGHE NGƯỜI NÓI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_062.wav,129026,NGHĨA LÀ NẾU BẠN ĐANG LÀM VIỆC DƯỚI QUYỀN MỘT GIÁM SÁT VIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_066.wav,140026,KẼM CÓ NHIỀU TRONG GAN SÒ THỊT ĐỎ CÁ ÓC TRỨNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_092.wav,140026,UNG THƯ TỪ MỘT CƠ QUAN KHÁC DI CĂN VÀO HỆ THỐNG HẠCH BẠCH HUYẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_109.wav,97026,CUỘC THI TỰ HÀO SỬ VIỆT ĐÃ HẾT GIAI ĐOẠN I
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_111.wav,109026,CUỘC BIỂU TÌNH CỦA ÁO ĐỎ CÓ THỂ SẼ BIẾN THÀNH BẠO LỰC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_117.wav,118026,TRÊN THỰC TẾ MỘT CUỘC ĐIỀU TRA ĐÃ ĐƯỢC TIẾN HÀNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_121.wav,128026,TRẢI DÀI HÀNG CHỤC CÂY SỐ ĐỀU THU GỌN VÀO TẦM MẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_137.wav,128026,THẢN NHIÊN GIÁ ĐÓ THÌ CHỈ CÓ THỂ LÀM VẬY THÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_147.wav,136026,BẮT ĐẦU CUỘC CHẠY ĐUA MÙA KINH DOANH TẾT GIỮA BÁNH NỘI VÀ BÁNH NGOẠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_154.wav,120026,CÁI NHÀ HÁT BỊ ĐẬP TAN TÀNH ÔNG KHOÁI LẮM À
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_168.wav,178026,MÂM CƠM VẪN THANH ĐẠM TỦ ÁO CỦA VỢ CŨNG CHỈ VÀI BỘ ĐƠN SƠ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_173.wav,152026,HÌNH THỨC KỶ LUẬT NÀO CŨNG CHỈ CÓ TÍNH ĐỊNH HƯỚNG RĂN ĐE
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_180.wav,131026,HIỆN NAY BÀ ĐANG BỊ NHIỀU BỆNH VÀ SỐNG DƯỚI MỨC NGHÈO KHỔ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_194.wav,140026,NẰM TRÊN GIƯỜNG GẦN CẢ THÁNG BẤT GIÁC TÔI CẢM THẤY MÌNH THẬT CÔ ĐỘC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_198.wav,156026,NHẢM NHÍ KHI GIỜ HỌC CHÁN PHÈO BUỒN NGỦ QUÁ Ờ BUỒN NGỦ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_200.wav,156026,NÓI CHUYỆN MỘT HỒI ÔNG LÀM BỘ ĐỂ TAY LÊN TAY EM TRÊN CẦN SỐ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_203.wav,134026,CÒN ANH TRAI TÔI TRONG NHẬT KÝ CỦA MÌNH CŨNG LINH CẢM ĐIỀU ĐÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_204.wav,139026,SÁNG CHÚNG TÔI TẠM BIỆT THUNG NAI VÀ NHỮNG CHỦ NHÂN MẾN KHÁCH MỘC MẠC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_208.wav,134026,MẤY NGÀY ĐẦU THÚY HÀ PHẢI NHỜ KIM DẪN ĐI GIỚI THIỆU TRƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_209.wav,102026,HỌ THÍCH NGHI VỚI VĂN HÓA CÔNG TY NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_213.wav,146026,MÔ HÌNH CẤU TRÚC CHỨC NĂNG VÀ KHOA HỌC XÃ HỘI MANG TÍNH GIÁO DỤC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_216.wav,104026,VÀ BẠN CẦN CÓ VIỆC LÀM ỔN ĐỊNH VỚI THU NHẬP CAO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_220.wav,120026,ĐÂY LÀ THÁNG CÓ SỐ ĐĂNG KÝ THẤP NHẤT TỪ ĐẦU NĂM ĐẾN NAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_239.wav,140026,THẬT RA THÌ CŨNG KHÔNG THỂ LÀM CẦU KÌ NHƯ Ở NHÀ ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_253.wav,114026,VẢ LẠI THEO QUY CHẾ ĐÂY LÀ TRÁCH NHIỆM CỦA MỖI THÍ SINH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_255.wav,146026,CÔNG NHÂN ĐANG THI CÔNG HAI NHÁNH CẦU RẠCH CHIẾC ẢNH THUẬN THẮNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_265.wav,140026,HỌ KHÔNG BIẾT CHƠI PHÒNG NGỰ LÀ GÌ TRỪ KHI BỊ ĐỐI THỦ VÂY ÉP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_267.wav,112026,CUỐI CÙNG HỌ DẪN NHAU VỀ NHÀ VỚI THÚNG LÀN KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_271.wav,147026,PHIM MỚI CỦA TRƯƠNG NGHỆ MƯU SỰ TRỞ LẠI DÒNG PHIM NGHỆ THUẬT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV15_299.wav,124026,CÒN HÀNG TRĂM CHIẾC KHÁC ĐÃ BÁN THÌ ÔNG KHÔNG NHỚ HẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_026.wav,204026,CÙNG VỢ ĂN VỘI CHÉN CƠM THÀNH LẠI LO ÔN BÀI LÀM BÀI TẬP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_033.wav,114026,ĐỘI NÀO THÀNH TÍCH CÀNG CAO THÌ QUẢN LÝ CÀNG KHÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_048.wav,127026,PHẢI CHĂNG XÂY DỰNG NIỀM TIN VÀO TÌNH YÊU KHÓ THẾ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_049.wav,194026,CÒN BA CẦU THỦ VĂN TRƯƠNG BẬT HIẾU VÀ HẢI LÂM THÌ SAO THƯA ÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_050.wav,120026,THÁNG BẢY NHIỀU NGƯỜI CON KHÓC NÊN TRỜI BUỒN VÀ KHÓC THEO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_051.wav,134026,CA KHÚC ĐƯỢC KHÁN GIẢ YÊU THÍCH NHẤT BÀ TÔI NGUYỄN VĨNH TIẾN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_058.wav,106026,ĐẦU TƯ TIÊU DÙNG VÀ XUẤT KHẨU ĐỀU SẼ TĂNG MẠNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_059.wav,131026,ĐỒ CỔ KHÔNG CÔNG KHAI NGUỒN GỐC PHẢI BỊ COI LÀ HÀNG GIẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_064.wav,116026,TỪNG LÀ CHỦ TẾ HÀNG TRĂM LỄ AN TÁNG MỘ GIÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_067.wav,114026,HÌNH NHƯ KHÔNG CÓ CẢ MỘT TRONG HAI TÀI VÀ ĐỨC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_068.wav,136026,BÊN CẠNH ĐÓ CHÚNG TÔI CÒN LÀM HÀNG LOẠT VIỆC KHÁC NHƯ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_074.wav,128026,CHÚNG NÓ YÊU NHAU RẤT TỰ NHIÊN GHÉT NHAU CŨNG RẤT TỰ NHIÊN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_079.wav,160026,TẤT CẢ ĐỂ CHO NGƯỜI BỆNH VÀ THÂN NHÂN HÀI LÒNG KHI ĐẾN BỆNH VIỆN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_101.wav,126026,TÔI KHẼ CHỚP MẮT VÀ THẦM CẦU NGUYỆN XIN CHÚA GIÚP CON
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_112.wav,122026,LÚC HƯNG PHẤN NÓI CHUYỆN PHÓNG LAO CHẲNG CÓ CHI PHỨC TẠP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_120.wav,121026,SẼ LÀM CHÚNG TA NGỦ KHÔNG ĐỦ KHÔNG ĐÚNG QUY LUẬT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_149.wav,140026,CÓ BAO GIỜ ÔNG GẶP TÌNH HUỐNG KHÔNG TRẢ LỜI ĐƯỢC CÂU HỎI CỦA DÂN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_153.wav,120026,CẢ ĐỜI CHƯA BAO GIỜ TÔI CÓ CẢM GIÁC SUNG SƯỚNG NHƯ VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_154.wav,127026,ÍT CÓ CƠ HỘI SỐNG SÓT CHO CÁC HÀNH KHÁCH TRÊN MÁY BAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_161.wav,149026,TRUNG QUỐC ĐƯA RA HÌNH PHẠT CỤ THỂ ĐỐI VỚI TỘI THAM NHŨNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_168.wav,130026,HAI CHÁU NGẠC NHIÊN ĐÓN KHÁCH LẠ SUNG SƯỚNG ÔM CẶP MỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_173.wav,140026,NHƯNG CÔ QUYẾT CHỨNG MINH NGƯỜI MÙ KHÔNG PHẢI VÔ DỤNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_175.wav,122026,HỌ ĐÃ TRAO NHAU LỜI HẸN ƯỚC NÊN DUYÊN CHỒNG VỢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_177.wav,168026,NẾU THỈNH THOẢNG CÓ VÀI NGÀY NGHỈ NGƯỜI THỤY ĐIỂN THƯỜNG RA ĐẢO CHƠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_182.wav,157026,NHỮNG NGƯỜI CÔ LẬP MÌNH CÓ THỂ GẶP PHẢI CHỨNG TRẦM CẢM HOẶC LO LẮNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_193.wav,139026,THỰC TẾ VAI TRÒ CỦA BẠN VÀ NGƯỜI PHỎNG VẤN ĐỐI CHIẾU NHAU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_196.wav,132026,SỰ GIÚP ĐỠ CỦA BÀ LÀ VÔ CÙNG QUÍ BÁU CHO CHÚNG TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_197.wav,146026,NHÀ TRƯỜNG ĐỘT NGỘT HỦY ĐỀ TÀI KHIẾN TÔI MẤT PHƯƠNG HƯỚNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_198.wav,166026,CÁC PHẬT TỬ HƯỞNG ỨNG LỜI KÊU GỌI CỦA THẦY NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_203.wav,123026,VẬY NHỮNG ĐỐI TƯỢNG NÀY SẼ ĐƯỢC GIẢI QUYẾT NHƯ THẾ NÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_228.wav,154026,XEN KẼ GIỮA NHỮNG MÀN BIỂU DIỄN LÀ NHỮNG PHÚT VUI CHƠI TẬP THỂ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_233.wav,174026,SÁNG RA THẤY DÂN TÌNH XÚM QUANH CON TÊ GIÁC KHỔNG LỒ ĐÃ CHẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_239.wav,136026,VÀ MỘT ĐIỀU SÂU XA LÀ MÌNH ĐÃ THẬT SỰ YÊU BẠN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_247.wav,166026,NHIỀU HÔM MƯA GIÓ BÁN Ế GÁNH CHÈ NẶNG TRĨU TRÊN VAI MẸ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_266.wav,162026,PHÍA DƯỚI VÀ XUNG QUANH KỆ LÀ NƯỚC BẨN LÊNH LÁNG CHẢY QUA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_267.wav,160026,TÔI ĐỨNG TRƯỚC HAI LỐI RẼ VÀ TÔI CHỌN CON ĐƯỜNG ÍT NGƯỜI ĐI HƠN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_273.wav,143026,CHÚNG TÔI ĐÃ ĐIỀU TRA NHỮNG TRƯỜNG HỢP CÓ NGHI VẤN GIAN DỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_279.wav,134026,VẬY CHỪNG NÀO MỚI TỚI XIN LỖI NHÂN DÂN TẬP CUỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_298.wav,168026,HÔM NÀO TAN CA SỚM HẠNH ĐƯỢC GIAO NHIỆM VỤ ĐI CHỢ CHO BỮA TỐI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV16_299.wav,142026,VÀO ĐƯỢC NHÀ ANH ĐẤY SỬA CỬA ĐI NGUY HIỂM ĐẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_011.wav,130026,RỒI MẶC DÙ BIẾT LÀ NGỚ NGẨN TÔI CỨ NÓI RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_024.wav,183026,RIÊNG ÔNG NGUYỄN VĂN BA BỊ GỖ ĐÈ DẬP SỌ NÃO CHẾT NGAY TẠI CHỖ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_032.wav,139026,MỖI NGƯỜI NỞ MỘT NỤ CƯỜI VỚI NHỮNG Ý NGHĨA KHÁC NHAU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_043.wav,116026,DO VẬY SẼ ẢNH HƯỞNG TỚI VIỆC THU SÓNG VÔ TUYẾN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_048.wav,120026,PHIM CHIẾU NGUYÊN BẢN TIẾNG PHÁP CÓ PHỤ ĐỀ TIẾNG VIỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_060.wav,111026,BÓNG MÀU XANH LÀ VÙNG TÂM BÃO CÓ THỂ ĐI QUA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_062.wav,115026,SAU MỘT NGÀY LAO ĐỘNG CĂNG MỆT BẠN ƯU TIÊN CHỌN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_070.wav,129026,HÀ CŨNG CHẲNG NHỚ MÌNH CÓ NÓI HAY KHÔNG ĐỂ CÃI LẠI ÔNG ẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_071.wav,119026,BẢN THÂN TÔI CŨNG THAM GIA MỘT VAI RẤT NHỎ NỮA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_077.wav,136026,HÔM SAU MỞ MÁY THẤY CÁI TRUYỆN ĐÃ TỰ HOÀN CHỈNH RỒI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_090.wav,113026,BÂY GIỜ THÌ ĐÁNG ĐƯỢC KHEN LÀ THÔNG MINH CHỨ HẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_099.wav,147026,CHỊ TÌM NHÀ CHO EM Ở TRỌ NGAY CỔNG TRƯỜNG CHỊ HỌC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_100.wav,127026,ĐẾN ĐÀ LẠT BẠN PHẢI CHUẨN BỊ ĐÔI CHÂN ĐỂ ĐI BỘ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_107.wav,157026,HỌ ĐƯỢC BỌN ĐẦU NẬU NHỮNG TAY TRÙM THUÊ VỚI GIÁ RẺ MẠT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_109.wav,122026,MỘT BÀ SANG TRỌNG ĐẾN GẶP BÁC SĨ TRẺ KHÁM BỆNH BÁC SĨ HỎI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_114.wav,108026,NHÂN LỰC NGÀNH THIẾT KẾ ĐỒ HỌA ĐẮT GIÁ VÀ KHAN HIẾM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_120.wav,121026,SAU ĐÓ BẢN THÂN HỌC SINH PHẢI LÀM ĐƠN XIN HỌC BỔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_133.wav,116026,CHỈ CÓ THỰC PHẨM MỚI GIÚP BẠN LÀM ĐƯỢC VIỆC NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_147.wav,118026,VỚI CÁC DÁT MÀU CÀ PHÊ SỮA KHÔNG CẦN ĐIỀU TRỊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_169.wav,156026,HỌ BẢO TÔI GIỐNG NGƯỜI HÀN THÌ TÔI LẠI THẤY HỌ GIỐNG NGƯỜI VIỆT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_170.wav,123026,VÀ ĐỘI TUYỂN PHÁP ĐANG LÀ ĐỘI CHIẾM ƯU THẾ HƠN SO VỚI THỤY SĨ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_173.wav,104026,TRÌNH ĐỘ CHUYÊN MÔN CỦA CÔ KHIẾN CÔ QUÁ THỪA TƯ CÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_181.wav,124026,NHỮNG CÂU HỎI TRÊN SẼ GIÚP BẠN LÀM ĐƯỢC ĐIỀU NÀY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_189.wav,160026,VẪN CÒN NHƯNG BẠN KHÔNG DÁM CHẮC HỌ CÓ HẠNH PHÚC HAY KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_192.wav,130026,ĐÓ CŨNG LÀ SỰ TIẾP XÚC GẦN GŨI NHẤT CỦA BỌN EM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_204.wav,148026,EM HÃY TỈNH TÁO MÀ TÌM NHỮNG ĐỊNH HƯỚNG TỐT HƠN CHO TƯƠNG LAI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_208.wav,164026,NHƯNG CHẲNG CÓ ĐIỂM SẢN XUẤT NÀO DÙNG BẠT PHỦ CHE CHẮN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_212.wav,150026,CÓ MẤY NGƯỜI ĐỤNG PHẢI NÓ SUÝT NGÃ CHÚI XUỐNG ĐƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_213.wav,129026,ĐOÀN ĐI THUYỀN ĐẾN MỘT KHU LÀNG DÂN TỘC THIỂU SỐ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_217.wav,190026,THÌ HỢP ĐỒNG THẾ CHẤP NÀY CŨNG KHÔNG CÓ GIÁ TRỊ PHÁP LÝ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_239.wav,166026,BA TÔI HÃNH DIỆN NÓI CHUYỆN VỚI SỐ HỌC SINH CÙNG LÊN XE ĐÒ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_241.wav,125026,MỘT ANH TRAI TUẤN ĐANG NGỒI TÙ VÌ TỘI GIẾT NGƯỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_245.wav,170026,ĐƯỢC BÀY TRÊN NHỮNG BỆ THỜ BÊN CẠNH NHỮNG BÓ SEN HUỆ THƠM NỨC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_254.wav,154026,CÁC BƯỚC SAU ĐÂY SẼ GIÚP BẠN TÌM RA ỨNG CỬ VIÊN THÍCH HỢP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_268.wav,131026,VÌ CHÚNG CÓ THỂ LÀM RĂNG CỦA BẠN DỄ BỊ Ố VÀNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_271.wav,175026,GIẢI NHẤT HUY CHƯƠNG VÀNG THUỘC VỀ NHÀ NHIẾP ẢNH CỦA CỘNG HÒA SÉC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_285.wav,136026,ĐỂ XIN THỊ THỰC CÔNG TÁC VỀ CƠ BẢN BẠN PHẢI CÓ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_288.wav,169026,TÔI NẮM BÀN TAY XƯA BA TÔI TỪNG THƯƠNG YÊU ĐAU XÓT CẦM GIỮ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_297.wav,138026,TRONG DÒNG THÁC NGƯỜI CHỈ NHÌN ĐƯỢC MẮT KÍNH VÀ KHẨU TRANG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV17_299.wav,116026,KHAI MẠC TRIỂN LÃM QUY MÔ LỚN VỀ TRANH SƠN MÀI VIỆT NAM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_006.wav,104026,KHÔNG NÊN CHỈ DỰA VÀO BÀI VIẾT CỦA BẠN ĐỂ THUYẾT MINH THÊM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_012.wav,83026,VÀ GIÁO DỤC CON NGƯỜI TRỞ THÀNH VIỆC LUYỆN TRÍ NHỚ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_017.wav,90026,TUY NHIÊN HỢP ĐỒNG NÀY CHỈ CÓ GIÁ TRỊ TRONG NHỮNG NGÀY BÌNH THƯỜNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_021.wav,82026,VẤN ĐỀ ĐẶT RA Ở ĐÂY LÀ LÀM THẾ NÀO ĐỂ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_051.wav,92026,NHƯNG NHIỀU DU KHÁCH THẤY THẤT VỌNG KHI LÊN ĐẾN NƠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_056.wav,96026,TRÊN MẶT AI CŨNG CÓ KHĂN TAY KHẨU TRANG CHE MIỆNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_060.wav,75026,CÀNG NGÀY MÌNH CÀNG NGHĨ NHIỀU VỀ CÔNG VIỆC GIẢNG DẠY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_064.wav,93026,TẤT NHIÊN HÓA ĐƠN TIỀN NƯỚC CŨNG KÈM LUÔN KHOẢN TIỀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_065.wav,75026,CHÚC BẠN ĐỌC CÓ THẬT NHIỀU THỜI GIAN THƯ GIÃN THOẢI MÁI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_082.wav,84026,HÀNG CHÂN MÀY ĐEN VÀ XẾCH KHÔNG LẪN VÀO ĐÂU ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_102.wav,89026,CẢ NGÀY TRỜI KHÔNG NẮNG GIÓ LẠNH NÊN THƯA VẮNG DU KHÁCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_114.wav,97026,LÀM ĐƯỢC HẾT KHỐI CÔNG VIỆC ẤY LÀ MỘT NỖ LỰC RẤT LỚN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_118.wav,116026,NGƯỜI ĂN XIN THƯA BÀ NGÀY THƯỜNG THÌ BÀ CHO GÌ CŨNG ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_120.wav,78026,BẠN KHÔNG BAO GIỜ RA NGOÀI MÀ KHÔNG DÙNG KEM LÓT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_126.wav,142026,VÀI LẦN TRIỂN LÃM TRANH TƯỢNG KHÔNG LỜI NHƯ THẾ HẮN SẼ NHẬN RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_155.wav,126026,NGƯỜI ĐÀN ÔNG TRÊN GIƯỜNG THÌNH LÌNH RÊN LÊN MỘT TIẾNG RỒI MỞ MẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_171.wav,112026,TỐI QUA NGƯỜI TA ĐẾN BẮT TÔI GIỮA ĐÊM HÔM KHUYA KHOẮT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_183.wav,94026,BẢO THẰNG QUYẾT NÓ BẮT CON GÀ SỐNG NÂU MÀ THỊT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_191.wav,128026,VỊ BÁC SĨ HIỀN LÀNH ẤY CÓ NHỮNG LÝ THUYẾT TRỒNG CÂY THẬT THÚ VỊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_192.wav,102026,NHỮNG KIỂU VẾT THƯƠNG MÀ TRẺ THƯỜNG MANG THEO CÓ THỂ LÀ GÌ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_194.wav,111026,XIN VỚI MẸ CHO ĐI CAI TẬP TRUNG SAU MỘT NĂM BẠN TRỞ VỀ NHÀ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_195.wav,88026,ĐẦU TIÊN LÀ MỘT TẤM ÂM BẢN SAU ĐÓ MỚI ĐẾN DƯƠNG BẢN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_198.wav,90026,MẤY NGÀY NAY CHÚNG TÔI ĐÃ TỊCH THU ĐƯỢC KHÁ NHIỀU GÀ CHẾT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_199.wav,93026,HIỂN NHIÊN KHÔNG AI MUỐN XUẤT HIỆN BÊN CẠNH MỘT NGƯỜI NHƯ VẬY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_211.wav,131026,HÌNH ẢNH QUẢNG CÁO ĐIẾU THUỐC ĐIỆN TỬ ĐƯỢC CÔNG TY T
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_214.wav,120026,KIỂU HÀI DUNG TỤC VẪN CỨ LỀNH KHÊNH Ở MỘT SỐ TỤ ĐIỂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_240.wav,112026,MỜI THAM DỰ CUỘC THI VIẾT NGẮN MỘT GIỜ KHÔNG ĐIỆN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_250.wav,145026,LẦN ĐẦU TIÊN MỘT NHÂN VIÊN NGƯỜI VIỆT THÁCH THỨC VIỆC TÁC NGHIỆP CỦA TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_252.wav,101026,LÚC ĐÓ CHỊ TƯỞNG LÀM NHƯ VẬY CŨNG LÀM MÁ VUI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_257.wav,112026,NGỒI NGHE TIẾNG BIỂN VÀ THƯ THẢ ĐẾM TỪNG GIỌT ĐEN RƠI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_259.wav,110026,MUỐN CÔNG NHẬN NGAY PHA BÓNG ẤY THÌ PHẢI SỬA LUẬT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_263.wav,108026,QUẢN LÝ NHÀ NƯỚC VỀ GIAO THÔNG VẬN TẢI ĐÔ THỊ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_265.wav,128026,SAU ĐÓ HỌ LÂN LA SANG CHƠI RỒI ĐÁNH CẮP ĐỨA BÉ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_272.wav,100026,ANH NHƠN BẢO TÔI VỀ TRƯỚC CÒN ANH ĐI THEO CÔ GÁI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_273.wav,107026,TRƯỚC HẾT BẠN CẦN TÌM HIỂU THÔNG TIN QUY HOẠCH KHU ĐẤT
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_279.wav,131026,NHỮNG SẢN PHẨM GIÚP NỞ NGỰC VÀ TAN MỠ CẤP TỐC ẢNH YẾN TRINH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_280.wav,94026,PHÓNG SỰ ẢNH NHỮNG MÀN BIỂU DIỄN NGOẠN MỤC TRÊN BẦU TRỜI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_282.wav,104026,NHƯNG CUỐI CÙNG CHẲNG AI CHỊU NỔI CÁI TÍNH HAM VUI CỦA TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_293.wav,79026,KIỂM TRA TRUNG TÂM NÀY CÔNG AN ĐÃ BẮT GIỮ TỚI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV18_297.wav,105026,HOA PHƯỢNG VẪN NỞ ĐỎ TRỜI TRONG TIẾNG VE XAO XÁC KHÔN NGUÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_008.wav,154026,TỪ ĐÓ LẠI SA ĐÀ VÀO NHIỀU NGHỊCH CẢNH ĐÁNG TIẾC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_011.wav,132026,MONG ANH HÃY HIỂU CHO EM EM THƯƠNG NHỚ VÀ YÊU ANH NHIỀU
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_020.wav,150026,LÊN CÁC CUỘC HẸN PHỎNG VẤN VÀ THỰC HIỆN PHỎNG VẤN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_022.wav,158026,XÉT Ở KHÍA CẠNH NÀY THÌ ĐÚNG LÀ MẤT BÒ MỚI LO LÀM CHUỒNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_024.wav,125026,TUY NHIÊN TÔI NGHĨ CẬU TA XỨNG ĐÁNG VỚI CHỨC VÔ ĐỊCH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_027.wav,128026,NHỮNG BIẾN DẠNG NÀY THƯỜNG THẤY RÕ KHI DƯƠNG VẬT CƯƠNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_029.wav,95026,GIỎI GÌ BÁC MÌNH ĐẺ RA KHÔNG NUÔI THÌ AI NUÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_030.wav,115026,PHÙ SA BỒI ĐẮP RUỘNG VƯỜN CHO XÓM LÀNG TRÙ PHÚ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_045.wav,134026,ÔNG NÓI CHÚNG TÔI HI VỌNG SẼ CÓ NHỮNG TIN TỨC TỐT LÀNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_056.wav,130026,VỀ NGUYÊN TẮC VÀO HỌC LÀ SINH VIÊN PHẢI ĐÓNG HỌC PHÍ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_061.wav,130026,ĐỂ NHỮNG KHÓ KHĂN VÀ MÂU THUẪN DẦN DẦN SẼ BỊ ĐẨY LUI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_064.wav,212026,CHÓNG MẶT CÒN CÓ THỂ DO TÌNH TRẠNG RỐI LOẠN NHỊP TIM NẶNG GÂY RA
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_071.wav,194026,TRONG NGẮN HẠN THỊ TRƯỜNG VẬN HÀNH NHƯ MỘT CỖ MÁY BẦU CỬ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_072.wav,108026,CHƯƠNG TRÌNH HỌC BỔNG THANH NIÊN CHÂU Á CỦA NHẬT BẢN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_083.wav,184026,NHƯNG RỒI CÁI TÌNH VỚI BÀ CON CỨ NẮM NÍU KHÔNG DỨT RA ĐƯỢC
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_091.wav,185026,SỐ ĐƠN VỊ THAM GIA HỘI CHỢ VIỆC LÀM TĂNG ĐÁNG KỂ QUA CÁC NĂM
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_094.wav,126026,TRANG VIẾT CỦA HỌ HƠN HẲN THỜI TUỔI TRẺ CỦA TÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_111.wav,142026,KHUYẾT ĐIỂM LỚN CỦA CHÚNG TA LÀ CHƯA CÓ DÂN CHỦ THẬT SỰ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_133.wav,138026,EM CÓ SUY NGHĨ THÊM VỀ VIỆC THAM DỰ HỘI CHỢ KHOA HỌC KHÔNG
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_142.wav,152026,HỌ CHỈ THÍCH NHỮNG MÔN GÌ MẠNH BẠO BẠO LỰC VÀ KIẾM RA TIỀN THÔI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_158.wav,154026,NHỮNG NGƯỜI TRẺ ẤY THẬT ĐÁNG PHÊ PHÁN ĐÁNG LÊN ÁN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_161.wav,184026,THÔNG THƯỜNG ÁN KỶ LUẬT NẾU CÓ THƯỜNG BAN HÀNH VÀO CUỐI TUẦN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_163.wav,140026,ĐIỀU LẠ LÀ TÔI VẪN KHÔNG TỪ BỎ Ý ĐỊNH TRỞ THÀNH TU SĨ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_167.wav,184026,CÁC QUI ĐỊNH CỦA PHÁP LUẬT KHÔNG THỂ ĐƯỢC BAN HÀNH THEO KIỂU ĐÁNH LÉN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_169.wav,130026,NHANH QUÁ ĐÃ LÀ LẦN THỨ BA XA NHÀ RỒI ĐẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_179.wav,141026,ĐỖ ĐỨC THUẦN NGUYÊN KẾ TOÁN TRƯỞNG CÔNG TY TIẾP THỊ ĐẦU TƯ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_196.wav,183026,NGƯỜI ANH SAU ĐÓ ĐƯỢC PHÉP THẦU XÂY KÊNH NÀY NHƯNG KHÔNG TIẾN HÀNH
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_218.wav,170026,NÓI CÁCH KHÁC CÁI ĐƯỢC CỦA CHÂU Á LÀ CÁI MẤT CỦA CHÂU PHI
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_222.wav,194026,MẮT TỰ NHIÊN HOA LÊN TRÍ CHỤP MỘT CÁI LY QUẬT MẠNH XUỐNG SÀN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_227.wav,217026,TỪ ĐẤY ÔNG CÀNG THÔNG CẢM SÂU SẮC TÂM TRẠNG CỦA NGUYỄN THIẾP
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_244.wav,134026,EM HÃY TÌM CÁCH TIẾP CẬN ĐỂ BÀY TỎ VỚI MẸ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_245.wav,140026,LÚC ĐÓ NẠN KẸT XE CHẮC SẼ KINH KHỦNG GẤP NHIỀU LẦN HÔM NAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_246.wav,163026,VỢ LỠ CÓ TẬT THẾ ANH NÊN THAY ĐỔI CÁCH TIẾP CẬN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_249.wav,144026,ĐÂY ĐƯỢC XEM LÀ VAI DIỄN THÀNH CÔNG NHẤT CỦA VƯƠNG TỪ TRƯỚC ĐẾN NAY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_257.wav,169026,NHƯNG NẾU CHỈ NÓI CÁI GIỎI KHÔNG THÔI THÌ THẬT CHƯA ĐỦ VỀ CHÚ TƯ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_259.wav,134026,TÍCH CỰC HƠN VỚI VẤN ĐỀ LIÊN QUAN ĐẾN KIỀU BÀO
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_262.wav,149026,ĐỂ RỒI CHÚNG TA KHAO KHÁT MÃI TRONG VÒNG LUÂN HỒI NHÂN GIAN
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_266.wav,128026,VẤN ĐỀ NẢY SINH TỪ CÁI CÂU HỎI DINH CU ẤY
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_274.wav,117026,CHỊ NÊN ĐI KHÁM BÁC SĨ VÀ CHỌN PHƯƠNG PHÁP NGỪA THAI HIỆU QUẢ
+/usr/workspace/pykaldi/deepspeech/vietnam/test/VIVOSDEV19_279.wav,116026,NỢ MỘT CUỘC CHIẾN CHỐNG THAM NHŨNG VẪN CHƯA VÀO ĐÂU
